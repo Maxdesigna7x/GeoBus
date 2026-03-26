@@ -1,0 +1,5 @@
+{
+  "name": "Bus Route Tracker",
+  "description": "App for tracking bus routes, stops, and passenger boarding/alighting using GPS.",
+  "requestFramePermissions": ["geolocation"]
+}
